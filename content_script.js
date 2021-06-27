@@ -318,6 +318,8 @@ function isForbiddenNode(node) {
         return true;
     } else if (node.parentNode && node.parentNode.isContentEditable) {
         return true;
+    } else if (node.tagName === undefined)
+        return true;
     } else {
         return forbiddenTagNames.includes(node.tagName.toLowerCase());
     }
