@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "B!tch to Boss",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "A person’s gender, age, race, or sexual orientation (or any personal characteristic) shouldn’t determine their access, opportunities, or quality of experience online. And yet . . . here we are. B!tch to Boss finds and replaces all instances of derogatory words like “bitch,” “slut,” and “nasty woman” to simply read “boss” across the web. Will this solve harassment online? No. Will it make comments sections, unsolicited DMs, and angry replies just a little bit funnier? Hopefully.",
+    "description": "Description of the extension."
+  }
+}

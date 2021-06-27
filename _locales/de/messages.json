@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Aus B!tch mach Heldin",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Frauen sind online viel zu oft Hasstiraden ausgesetzt. Sie werden aufgrund ihres Geschlechts auf eine Art und Weise beleidigt, bedroht und runtergemacht, die oft kaum zu ertragen, aber leider alltäglich ist. Aus B!tch mach Heldin ersetzt üble Schimpfwörter wie “Schlampe”, “Hure” oder “Fotze” durch das Wort “Heldin” und nimmt den Hassreden im Web den Wind aus den giftigen Segeln. Wird damit das grundlegende Problem gelöst? Nein. Werden hasserfüllte Kommentare, Wut-Nachrichten und Social-Media-Verläufe ein wenig lustiger? Hoffentlich.",
+    "description": "Description of the extension."
+  }
+}

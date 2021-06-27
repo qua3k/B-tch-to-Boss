@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "De Putes, Faire des Guerrières",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Les femmes sont trop souvent insultées, menacées et rabaissées de façons souvent insupportables mais malheureusement courantes, en raison de leur genre. De Putes, Faire des Guerrières remplace les insultes comme « pute », « salope » ou « poufiasse » par le mot « guerrière » et coupe l’herbe sous le pied de la haine sur Internet. Est-ce que ça règle le problème de fond ? Non. Est-ce que les commentaires haineux, les messages d’énervés et les conversations sur les réseaux sociaux seront plus amusants ? On l’espère.",
+    "description": "Description of the extension."
+  }
+}

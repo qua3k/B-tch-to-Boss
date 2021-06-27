@@ -1,0 +1,82 @@
+Manifest-Version: 1.0
+
+Name: content_script.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: h19KdQHE7k1wlZ5mU2P4MdWtrA0=
+SHA256-Digest: zAd+qMjXsEEncrF02d3N7cZKqzyIjLoWCRDhPhKCvls=
+
+Name: icon16.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: oSREVL54HQJs0Rel+CnVg3nEwYQ=
+SHA256-Digest: 1K7o0P2Pie+vtlcq2/w4WHYC5Zi/QRG1pptBLAKDuo0=
+
+Name: icon32.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: FR9FaIj9Y8pas4UxaUCuMqsGkyQ=
+SHA256-Digest: 2VcJ3jyFXArSGXrBSotIjq7q0p9l6miwgpmPPGN757A=
+
+Name: icon48.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: T1ShIydEG86G73aTDd/BRahXNqY=
+SHA256-Digest: 7qjCvgQDVijsLIHlXiCMhrVRM0KYGBvLjgwX+ZChfAs=
+
+Name: icon128.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: XsYNwvuOL5Cv2F1xcsGOFRs4tKo=
+SHA256-Digest: R7eUtpAGt/U7nhLvpq92m7BR2gTamJaRZmuXxEZLJ/g=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: kYzyZFhnL/+6UzrDLv+QJArA4mU=
+SHA256-Digest: zIwJKYzIpJU06nDKHYRQxebCwRUIWI40FD1tjtLOUuU=
+
+Name: _locales/.DS_Store
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /6colh961JN5nv0wjwrPP/y1MxI=
+SHA256-Digest: v3WKGGmleKnwsEn568kQVuiM2UKMHywmUL5hpzEs2Hs=
+
+Name: _locales/de/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0pE4FwpzvsHqFHzMLl6RRhprxqo=
+SHA256-Digest: a02AeOxZC4o4jKLd2wje+VgWnVL4dfcNlZVkQh44NLk=
+
+Name: _locales/fr/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Hb+5IokO6q4vG1DpVzqef7vBoeE=
+SHA256-Digest: GaK4bcgpw2ih/6IEpBdrwyK9R8/IDkmk13IKGr9aWHs=
+
+Name: _locales/en/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mYzFFOPZPIs0qvdueGVGBl4Nvts=
+SHA256-Digest: fjoF8gcXLaBQXCA5cuInoiURmM34Z7iBC9DBEAE34L8=
+
+Name: __MACOSX/._icon16.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ZHy219032HuGv78xiVB05qqeSUw=
+SHA256-Digest: yVV55QeLw2/Xz5T99DM0EUXYevDXB3emv/lOX/VLcfg=
+
+Name: __MACOSX/_locales/._.DS_Store
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: C+1+kMK63pdj+hjx+0RB0x+RyHw=
+SHA256-Digest: LzgPSj0FqNkMIQb1DadQZOnOV6WYWZ3FQE+PaaAiOqk=
+
+Name: __MACOSX/_locales/de/._messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: SLRHEdbtNKsNZmp0SRYLizLC0dg=
+SHA256-Digest: 6+cWyQhOQwzysWkefC0X5vCHnGtpmL/oKqaXFekaMSc=
+
+Name: __MACOSX/_locales/fr/._messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: SLRHEdbtNKsNZmp0SRYLizLC0dg=
+SHA256-Digest: 6+cWyQhOQwzysWkefC0X5vCHnGtpmL/oKqaXFekaMSc=
+
+Name: __MACOSX/_locales/en/._messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: SLRHEdbtNKsNZmp0SRYLizLC0dg=
+SHA256-Digest: 6+cWyQhOQwzysWkefC0X5vCHnGtpmL/oKqaXFekaMSc=
+
+Name: mozilla-recommendation.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0T2C3XLTxEPZqTe2QteltBvoF3M=
+SHA256-Digest: jJLo3K8mI9bsHPjPLpFyLQQ8QDH7uP/LVku8Ql4v9bk=
+
