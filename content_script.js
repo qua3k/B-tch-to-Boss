@@ -372,7 +372,7 @@ function walkAndObserve(doc) {
 // Runtime
 // only if the lanuage is supported
 if (supportedLangs.includes(htmlLang) === true) {
-    browser.i18n.getAcceptLanguages().then((languages) => {
+    chrome.i18n.getAcceptLanguages(function(languages) {
         let firstLang = languages.length > 0 ? languages[0] : '';
 
         if (htmlLang.startsWith('de')) {
